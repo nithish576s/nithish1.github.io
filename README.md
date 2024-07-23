@@ -6,5 +6,6 @@ I am a final year undergraduate student in the Electrical Engineering Department
 ## Education
 
 - Indian Institute of Technology, Hyderabad
+  
     B.Tech (Honors) 2024
 - Chennai Public School
