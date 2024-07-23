@@ -10,5 +10,5 @@ I am a final year undergraduate student in the Electrical Engineering Department
     B.Tech (Honors) in Electrical Engineering 2024
 - Chennai Public School
 
-    AISSCE (Computer Science group) 2020
+    AISSCE (Computer Science group) 2020  
     AISSE 2018
