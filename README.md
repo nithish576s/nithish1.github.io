@@ -7,6 +7,7 @@ I am a final year undergraduate student in the Electrical Engineering Department
 
 - Indian Institute of Technology, Hyderabad  
     B.Tech (Honors) in Electrical Engineering 2024
+  
 - Chennai Public School, Chennai  
     AISSCE (Computer Science group) 2020  
     AISSE 2018
