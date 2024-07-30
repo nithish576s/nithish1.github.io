@@ -16,5 +16,5 @@ I am a final year undergraduate student in the Electrical Engineering Department
 - ### Distributed Mean Estimation
     As part of my final year honors project, I worked on the problem of distributed mean estimation. The problem involves m clients each having a distinct vector and one server that would like to estimate the mean of the m vectors. This problem is simple if there are no constraints. We solved this problem under communication constraints i.e., each client can only send one or a constant number of bits for each coordinate of the vector. We devised a communication scheme that achieves order optimal MSE while using only a constant number of bits per dimension.
 
-- ### Weighted Nuclear Norm Minimization(WNNM)
+- ### Image Denoising
     I worked on the problem of image denoising during my pre-final year of undergraduate. A true image is taken and noise is added to it, the noisy image is given as input and we are tasked with coming up with an estimate of the true image from the noisy image. As part of this project, I had the opportunity to understand and implement the Weighted Nuclear Norm Minimization(WNNM) algorithm, and I was able to apply it to the problem of image denoising. 
