@@ -1,7 +1,7 @@
 # Nithish
 ## About me
 
-I am an incoming MS ECE student with a specialization in Communication Theory and Systems at UCSD. Prior to that, I did my Bachelor of Technology in Electrical Engineering at IIT Hyderabad. I am primarily interested in working in information theory, statistical inference, and coding theory. I am also interested in exploring communication theory and wireless communications.
+I am an incoming MS ECE student with a specialization in Communication Theory and Systems at UCSD. I did my Bachelor of Technology with Honors in Electrical Engineering at IIT Hyderabad. I am primarily interested in working in information theory, statistical inference, and coding theory. I am also interested in exploring communication theory and wireless communications.
 
 ## Education
 
