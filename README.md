@@ -13,7 +13,7 @@ I am an incoming MS ECE student with a specialization in Communication Theory an
     AISSE 2018
 
 ## Publications
-- ### Unbiased Quantization of the L_1 ball for Communication-Efficient Distributed Mean Estimation
+- Unbiased Quantization of the L_1 ball for Communication-Efficient Distributed Mean Estimation
     - Nithish Suresh Babu, Ritesh Kumar, Shashank Vatedka, accepted to AISTATS 2025
 
 ## Projects
