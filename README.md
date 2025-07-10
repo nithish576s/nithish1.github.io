@@ -12,6 +12,10 @@ I am an incoming MS ECE student with a specialization in Communication Theory an
     AISSCE (Computer Science group) 2020  
     AISSE 2018
 
+## Publications
+- ### Unbiased Quantization of the L_1 ball for Communication-Efficient Distributed Mean Estimation
+    - Nithish Suresh Babu, Ritesh Kumar, Shashank Vatedka, accepted to AISTATS 2025
+
 ## Projects
 - ### Distributed Mean Estimation
     As part of my final year honors project, I worked on the problem of distributed mean estimation. The problem involves m clients each having a distinct vector and one server that would like to estimate the mean of the m vectors. This problem is simple if there are no constraints. We solved this problem under communication constraints i.e., each client can only send one or a constant number of bits for each coordinate of the vector. We devised a communication scheme that achieves order optimal MSE while using only a constant number of bits per dimension.
